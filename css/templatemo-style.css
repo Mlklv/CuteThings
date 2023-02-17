@@ -23,11 +23,11 @@ a:focus {
 .tm-left-right-container { width: 100%; }
 
 .tm-blue-bg {
-	background-color: #006599;
+	background-color: #c09bea;
 	color: white;
 }
 
-.tm-blue-text {	color: #006599; }
+.tm-blue-text {	color: #c09bea; }
 .tm-blue-bg a {	color: white; }
 
 .tm-site-name {
@@ -56,7 +56,7 @@ a:focus {
 p { line-height: 2; }
 
 .tm-button {
-	background-color: #006599;
+	background-color: #c09bea;
 	border: none;
 	color: white;
 	cursor: pointer;
@@ -70,7 +70,7 @@ p { line-height: 2; }
 .tm-button:hover,
 .tm-button:active,
 .tm-button:focus {
-	background-color: #2790c6;
+	background-color: #fff27a;
 	color: white;
 }
 
@@ -111,7 +111,7 @@ p { line-height: 2; }
 .tm-contact-right { margin-top: 40px; }
 
 .form-control {
-	border-color: #0a6697;
+	border-color: #fff27a;
 	border-radius: 0;
 	color: #4286ab;
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
